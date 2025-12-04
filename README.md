@@ -1,4 +1,4 @@
-Customer-Behaviour-Analysis-Using-Python-SQL-PowerBI
+# Customer-Behaviour-Analysis-Using-Python-SQL-PowerBI
 ## Objective
 This project focuses on analyzing customer purchasing behavior using Python, SQL, and Power BI to uncover business insights. The goal is to understand revenue trends, customer segments, discount usage, and subscription patterns through end-to-end analytics.
 
@@ -37,6 +37,7 @@ Performed advanced SQL analysis to answer business questions such as:
 
 ## Project Files
 - <a href="https://github.com/Shareef1827/Customer-Behaviour-Analysis-Using-Python-SQL-PowerBI/blob/main/README.md"> README </a>
+- <a href="https://github.com/Shareef1827/Customer-Behaviour-Analysis-Using-Python-SQL-PowerBI/blob/main/customer_shopping_behavior.csv"> Customer Shopping Behaviour </a>
 - <a href="https://github.com/Shareef1827/Customer-Behaviour-Analysis-Using-Python-SQL-PowerBI/blob/main/Customer%20Behaviour.ipynb">Customer Behaviour Jupyter File </a>
 - <a href="https://github.com/Shareef1827/Customer-Behaviour-Analysis-Using-Python-SQL-PowerBI/blob/main/Customer%20Dabase%20Sql.sql"> Customer Database MySQL </a>
 - <a href="https://github.com/Shareef1827/Customer-Behaviour-Analysis-Using-Python-SQL-PowerBI/blob/main/Customer%20Behaviour%20Dashboard.pbix"> Customer Behaviour Dashboard </a>
